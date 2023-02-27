@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:slide_button/widget/slide_button.dart';
+import 'package:slide_action_button/widget/slide_button.dart';
 
 void main() {
   runApp(const MyApp());
